@@ -8,8 +8,8 @@ import "./globals.css"
 import AnimateOnScroll from "../components/animate-on-scroll"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
+  title: "portfolio",
+  description: "portfolio",
   generator: "v0.app",
 }
 
